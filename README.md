@@ -18,6 +18,10 @@ Desarrollar un modelo capaz de identificar objetos en escenarios urbanos con el 
 # Descripción del Dataset
 El dataset utlizado es "tesi Computer Vision Dataset" utilizado para detección de objetos mediante vision por computadora alojado en la plataforma Roboflow. Esta diseñado para ntrenar modelos capaces de identificar en imagenes mediante bounding boxes
 
+## Licencia y publicación
+- El dataset está bajo licencia CC BY 4.0, lo que significa que se puede usar, compartir y modificar los datos siempre que des atribución a los autores originales.
+- Fue publicado por CV 2022, aunque no existe una descripción detallada oficial más allá de las etiquetas y clases
+
 ## Contenido esperado
 Al estar en Roboflow, este tipo de datasets contiene:
 
@@ -32,6 +36,8 @@ Al estar en Roboflow, este tipo de datasets contiene:
 - Coordenadas de cajas delimitadoras (bounding boxes)
 - División en conjuntos de entrenamiento, validación y prueba
 - Opciones de exportación a formatos YOLO, COCO, VOC, etc.
+
+[tesi computer vision dataset](https://universe.roboflow.com/cv-2022-kyjj6/tesi)
 
 ---
 ## Requisitos
