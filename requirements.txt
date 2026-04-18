@@ -1,0 +1,11 @@
+roboflow
+ultralytics
+albumentations
+opencv-python
+pydantic
+typing_extensions
+pandas
+matplotlib
+torch
+torchvision
+cookiecutter-data-science
