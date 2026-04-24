@@ -1,1 +1,3 @@
 ComputerVisionDatasetV1-1/
+venv/
+.DS_Store
