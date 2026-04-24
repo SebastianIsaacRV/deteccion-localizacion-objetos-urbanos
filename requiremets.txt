@@ -1,0 +1,10 @@
+ultralytics
+roboflow
+albumentations
+opencv-python
+torch
+torchvision
+pandas
+matplotlib
+numpy
+ipykernel
