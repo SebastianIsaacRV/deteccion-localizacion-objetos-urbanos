@@ -1,0 +1,12 @@
+path: /tesiComputerVisionDatasetV1-1
+
+train:
+  - /tesiComputerVisionDatasetV1-1/train/images
+  - /tesiComputerVisionDatasetV1-1/train_DA/images_DA
+  - /tesiComputerVisionDatasetV1-1/train/images_OS
+
+val: /tesiComputerVisionDatasetV1-1/valid/images
+
+nc: 5
+
+names: ['bus', 'construction', 'cyclist', 'pedestrian', 'vehicle']
